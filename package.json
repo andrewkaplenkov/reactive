@@ -18,7 +18,12 @@
 		"react-dom": "^18.1.0",
 		"prop-types": "^15.8.1",
 		"react-router-dom": "^6.3.0",
-		"styled-components": "^5.3.5"
+		"styled-components": "^5.3.5",
+		"@mui/material": "^5.8.2",
+		"@mui/styled-engine-sc": "^5.8.0",
+		"@mui/icons-material": "^5.8.3",
+		"@emotion/react": "^11.9.0",
+		"@emotion/styled": "^11.8.1"
 	},
 	"devDependencies": {
 		"css-minimizer-webpack-plugin": "^4.0.0",
